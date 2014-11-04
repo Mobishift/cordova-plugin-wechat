@@ -41,5 +41,6 @@
         </config-file>
 
         <source-file src="src/android/Wechat.java" target-dir="src/xu/li/cordova/wechat" />
+        <source-file src="src/android/libs/libammsdk.jar" target-dir="libs/" />
     </platform>
 </plugin>
